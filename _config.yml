@@ -1,0 +1,15 @@
+port: 4000
+
+# Site settings
+title: Shop eXpresso
+email: your-email@domain.com
+description: applications pour gérer votre business.
+
+# Build settings
+markdown: kramdown
+
+# Exclude nodes artifacts from build
+exclude:
+  - package.json
+  - node_modules
+  - gulpfile.js
