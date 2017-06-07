@@ -38,8 +38,8 @@ $ gulp deploy
 ```
 ## credit
 
-- [Shane Osbourne, jekyll-gulp-sass-browser-sync](https://github.com/shakyShane/jekyll-gulp-sass-browser-sync)
-- [David Boureau, aka:
-bdavidxyz]https://github.com/bdavidxyz/impatient-
-- [jenofdoom]https://github.com/jenofdoom/jekyll-bootstrap-4
-- [travis Neilson- in the design code serie (depreciated)]: https://github.com/travisneilson
+- Shane Osbourne, jekyll-gulp-sass-browser-sync(https://github.com/shakyShane/jekyll-gulp-sass-browser-sync)
+- David Boureau, aka:
+bdavidxyz](https://github.com/bdavidxyz/impatient-jekyll)
+- jenofdoom (https://github.com/jenofdoom/jekyll-bootstrap-4)
+- travis Neilson- in the design code serie (apparently depreciated): (https://github.com/travisneilson)
