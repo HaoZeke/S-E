@@ -1,15 +1,18 @@
-port: 4000
-
-# Site settings
+---
 title: Shop eXpresso
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+port: 4000
 email: your-email@domain.com
 description: applications pour gérer votre business.
-
-# Build settings
 markdown: kramdown
-
-# Exclude nodes artifacts from build
 exclude:
-  - package.json
-  - node_modules
-  - gulpfile.js
+- package.json
+- node_modules
+- gulpfile.js
